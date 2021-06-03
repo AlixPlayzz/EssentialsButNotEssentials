@@ -6,4 +6,5 @@ I'll be releasing every major change/progress I make. To enthesis: This is NOT a
 It's a complete remake from scratch.
 I would really appreciate any feedback or criticism about my code. Thanks for reading :D
 
-The main download is on 
+The main download is on https://www.spigotmc.org/resources/essentialsbutnotessentials-0-1-essentials-remake.92969/
+Would prefer if you download it from there as it will be updated more then this one on github.
